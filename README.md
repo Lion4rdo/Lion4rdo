@@ -1,16 +1,14 @@
-## Hi there 👋
+# Muito prazer, meu nome é Leonardo Marinho!
 
-<!--
-**Lion4rdo/Lion4rdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Engenharia de Computação & Gerente de Projetos
 
-Here are some ideas to get you started:
+Sou apaixonado por transformar problemas complexos em processos estruturados e trazer melhor funcionamento e atuação para uma equipe. Atuo na intersecção entre o desenvolvimento de software e a liderança de equipes, com foco em métricas, orçamentos e logística.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minha Caixa de Ferramentas
+Como PM, compreendo o ciclo de vida do desenvolvimento de ponta a ponta:
+- **Gestão & Design:** Notion, Figma, Canva, Adobe Illustrator
+- **Linguagens & Web:** C, C++, Java, HTML/CSS, JavaScript, Python, TypeScript
+- **Hardware & Arquitetura:** RISC-V, Arduino, ESP32
+
+### 🚀 O que estou construindo agora
+- 📦 Documentando a arquitetura de uma solução de Speech-to-Text com IA local (WhisperX) para a Midea Carrier.
